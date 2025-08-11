@@ -1,2 +1,2 @@
 # nanoveil
-Rust playgrounds for my cybersecurity projects and other miscellaneous ambition.
+Rust+Go playgrounds for my cybersecurity projects and other miscellaneous ambition.
